@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qrc/open.png</file>
+        <file>qrc/stop.png</file>
+        <file>qrc/background.jpg</file>
+        <file>qrc/main.jpg</file>
+        <file>qrc/next.png</file>
+        <file>qrc/last.png</file>
+        <file>qrc/pause.png</file>
+        <file>qrc/play.png</file>
+        <file>qrc/volume.png</file>
+        <file>qrc/delete.png</file>
+        <file>qrc/add.png</file>
+        <file>qrc/external.png</file>
+        <file>qrc/list.png</file>
+        <file>qrc/previous.png</file>
+        <file>qrc/mediaplayer.ico</file>
+    </qresource>
+</RCC>
